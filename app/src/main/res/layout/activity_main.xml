@@ -19,9 +19,6 @@
         android:textSize="@dimen/activity_horizontal_margin"
         android:textStyle="italic"
         android:typeface="serif"
-        
-
-
         />
 
 
